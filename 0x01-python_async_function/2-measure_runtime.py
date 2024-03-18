@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """ Module: measure_runtime
-
 This module provides functionality for mesuring the runtime
-performance of asychronous coroutines"""
+performance of asychronous coroutines
+"""
 
 
 from typing import List
